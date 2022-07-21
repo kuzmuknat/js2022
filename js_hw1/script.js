@@ -77,5 +77,5 @@ let c = true;
 let person2;
 person2 = prompt("first name:");
 person2 = person2 +' '+ prompt("middle name:");
-person2 = person2 +' '+prompt("last name:");
+person2 = person2 +' '+prompt("age:");
 console.log(person2);
